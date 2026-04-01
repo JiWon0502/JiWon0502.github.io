@@ -3,8 +3,8 @@ secondary_name: ""
 navbar_name: "Jiwon"
 
 positions:
-- name: Masters Studeont
-- name: Ewha Womans University
+- name: 석사과정
+- name: 이화여자대학교
   # logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
