@@ -1,9 +1,9 @@
-primary_name: "Jiwon Yoon"
+primary_name: "윤지원"
 secondary_name: ""
 navbar_name: "Jiwon"
 
 positions:
-- name: Masters Student
+- name: Masters Studeont
 - name: Ewha Womans University
   # logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
@@ -22,12 +22,12 @@ github: JiWon0502
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Current occupation at <a href="http://cvl.ewha.ac.kr" target="_blank">CVlab</a>.
+    이화여자대학교 <a href="http://cvl.ewha.ac.kr" target="_blank">CVlab</a> 소속 석사과정 대학원생입니다.
   </p>
   <p>
-    Problem Formulation & Solution Design via Data Analysis<br/>
-    Rigorous Hypothesis Verification & High-Efficiency System Optimization<br/>
-    System Reliability through Persistent Troubleshooting & Strategic Collaboration
+    데이터 분석 기반의 문제 재정의(Problem Formulation) 및 솔루션 설계<br/>
+    정교한 가설 검증 및 고효율 시스템 최적화<br/>
+    집요한 트러블슈팅을 통한 시스템 신뢰성 확보 및 전략적 협업
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,15 +35,15 @@ portrait_url: /assets/images/photos/portrait.jpg
   # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Ewha Womans University
+- name: 이화여자대학교
   logo: /assets/images/badges/symbol-mark.png
   position: >- 
-    M.S. in AI Convergence<br/>
+    AI융합전공 석사과정<br/>
   date: Sep. 2024 - Present
-- name: Ewha Womans University
+- name: 이화여자대학교
   logo: /assets/images/badges/symbol-mark.png
   position: >- 
-    B.S. in Computer Science and Engineering<br/>
+    컴퓨터공학전공 학사과정<br/>
   date: Mar. 2020 - Aug. 2024
 
 # experience:
@@ -53,15 +53,15 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Department Leadership scholarship 
+- name: 전공리더십 장학금
   date: 2020
-- name: Excellence1 scholarship  
+- name: 성적 우수 1 장학금 
   date: 2021
-- name: Department Leadership scholarship 
+- name: 전공리더십 장학금
   date: 2021
-- name: SVSWTIP Excellence Award 
+- name: SVSWTIP 우수상
   date: 2021
-- name: Excellence1 scholarship  
+- name: 성적 우수 1 장학금  
   date: 2024
-- name: KI-IT Bronze Award
+- name: 대학생논문경진대회 동상
   date: 2024
