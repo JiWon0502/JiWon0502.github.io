@@ -5,7 +5,7 @@ selected:       true
 pub:            "The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Highlight</span>'
 pub_date:       "2026"
 semantic_scholar_id: 1b7c8ad305e68709dc94fddd3bc5b1b2e11f31f9  # use this to retrieve citation count
 abstract: >-
